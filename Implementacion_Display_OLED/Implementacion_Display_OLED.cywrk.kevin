@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Implementacion_Display_OLED\Implementacion_Display_OLED\Source Files\main.c">
+<ExpandedNodeIds>
+<v>Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\TopDesign</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Pins</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Analog</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Clocks</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Interrupts</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\DMA</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\System</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Directives</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Flash Security</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\EEPROM</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Header Files</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Header Files\cyapicallbacks.h</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Header Files\font.h</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Header Files\ssd1306.h</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Source Files</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Source Files\main.c</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Source Files\ssd1306.c</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\TopDesign</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Pins</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Analog</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Clocks</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Interrupts</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\DMA</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\System</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Directives</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\Flash Security</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.cydwr\EEPROM</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Header Files</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Header Files\cyapicallbacks.h</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Header Files\font.h</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Header Files\ssd1306.h</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Source Files</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Source Files\main.c</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Source Files\ssd1306.c</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\ADC</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\ADC_AMux</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\ADC_Ext_CP_Clk</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\ADC_IRQ</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\ADC_theACLK</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\cy_boot</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\I2COLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\Pot</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\SCL</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\SDA</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\cydevice.h</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Generated_Source\PSoC5\cydevice_trm.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\TopDesign</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\TopDesign</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_AMux.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_theACLK.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\I2COLED.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\I2COLED_BOOT.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\I2COLED_INT.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\I2COLED_MASTER.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\I2COLED_PM.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\I2COLED_SLAVE.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\Pot.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\SCL.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\SDA.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Listing Files\ssd1306.lst</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Implementacion_Display_OLED.elf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Implementacion_Display_OLED.hex</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CortexM3\ARM_GCC_541\Debug\Implementacion_Display_OLED.map</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.gpdsc</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED.rpt</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Implementacion_Display_OLED_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\PSoC 5LP Architecture TRM</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CY8C58LP Family Datasheet</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\System Reference Guides</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\System Reference Guides\cy_boot_v6_10</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\ADC_DelSig_v3_30.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\cy_pins_v2_20</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Gnd_v1_0.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\I2C_v3_50.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Potentiometer_v1_0.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Power_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\PSoC 5LP Architecture TRM</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\CY8C58LP Family Datasheet</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\System Reference Guides</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\System Reference Guides\cy_boot_v6_10</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\ADC_DelSig_v3_30.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\cy_pins_v2_20</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Gnd_v1_0.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\I2C_v3_50.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Potentiometer_v1_0.pdf</v>
+<v>Implementacion_Display_OLED\Implementacion_Display_OLED\Power_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Implementacion_Display_OLED.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Implementacion_Display_OLED.cydsn\Implementacion_Display_OLED.cydwr" />
+<name v=".\Implementacion_Display_OLED.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1134, 535" SelectedTabbedMdiWindow="03cfee2a-94ec-416a-b392-7047601e3172"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="18f4fc4b-4c2b-4d01-a420-ed071ba87571" /><DocumentWindow Key="C:\Users\kevin\Documents\2024_1\Embebidos\Tercer Corte\Clase_5_07_2024\Implementacion_Display_OLED\Implementacion_Display_OLED.cydsn\TopDesign\TopDesign.cysch" Guid="55c0cb9e-5ee7-42fe-86b6-3c1b256c03bf" /><DocumentWindow Key="C:\Users\kevin\Documents\2024_1\Embebidos\Tercer Corte\Clase_5_07_2024\Implementacion_Display_OLED\Implementacion_Display_OLED.cydsn\Implementacion_Display_OLED.cydwr" Guid="6d17358f-84a3-4c83-a379-3dc6cde47ee0" /><DocumentWindow Key="C:\Users\kevin\Documents\2024_1\Embebidos\Tercer Corte\Clase_5_07_2024\Implementacion_Display_OLED\Implementacion_Display_OLED.cydsn\main.c" Guid="03cfee2a-94ec-416a-b392-7047601e3172" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|e9c85c1a-ff20-45ba-83a7-4749213ae6a5
+C:\Users\kevin\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|7fdcba1e-951b-4f81-be3c-5bab1a4a40b9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ccf6e771-0444-4b9c-8138-8fd7938d9917
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|089454f2-6381-4d1a-b21b-c85e2fad8337
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|171bbb81-4cd6-4006-8e43-76718db180dc
+C:\Users\kevin\Documents\2024_1\Embebidos\Tercer Corte\Clase_5_07_2024\Implementacion_Display_OLED\Implementacion_Display_OLED.cydsn\Implementacion_Display_OLED.cyprj|6e0478b5-9be0-48e7-86d7-24f3535e258f
